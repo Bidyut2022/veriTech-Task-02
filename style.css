@@ -170,42 +170,7 @@ header .navigation li a {
   bottom: 0;
   max-height: 100%;
 }
-#footer{
-  color:white;
-  /* z-index: 1000; */
-  
-  display: flex;
-}
-#msg{
-  display: flex;
-  /* align-items: center; */
-  flex-direction: column;
-  justify-content: center;
-  background-color:#161616;
-  color: white;
-  padding: 5px;
-  padding-left: 125px;
-  padding-bottom: 10px;
-}
-#msg input{
-  padding: 4px;
-  color: black;
-  border-radius: 5px;
-  border: none;
-}
-#msg #btn {
-  padding: 4px;
-  color: black;
-  border-radius: 5px;
-  background-color: #e51e2a;
-  border: none;
-  cursor: pointer;
-  
-}
-#btn:hover{
-  background-color:black;
-  color: white;
-}
+
 
 
 /* ......................scrollbar css........................ */
